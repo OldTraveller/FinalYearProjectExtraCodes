@@ -34,5 +34,4 @@ INSERT INTO student_data
 VALUES ("16GAEC9002", "ABHISHEK KUMAR RAI", "CSE", 8, "c10c0968ec7ff5eac2f00a30c2ff1037944c16eb", 
         "d3343fd5ad4f326eea980acf12315f5cda0e8351", "abhishekrai19999@gmail.com", 1,
         "NOTHING199", "OldTraveller");
-); 
 INSERT INTO admin_data VALUES ('16GAEC9002', 'c10c0968ec7ff5eac2f00a30c2ff1037944c16eb', 'd3343fd5ad4f326eea980acf12315f5cda0e8351');
